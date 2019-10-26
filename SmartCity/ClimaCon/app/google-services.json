@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "506669006024",
+    "firebase_url": "https://mypushapp-4d856.firebaseio.com",
+    "project_id": "mypushapp-4d856",
+    "storage_bucket": "mypushapp-4d856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506669006024:android:3168f130c1678280",
+        "android_client_info": {
+          "package_name": "com.sam.test.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506669006024-iqv1r8hsa60rsfj7osp3j9loe7qftmk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8FHHvvl3qswwr7lr-ph08x06yGrzwcM"
+        },
+        {
+          "current_key": "AIzaSyBb7tXfslsTlXFyNe_T0ie-YqBtLSQBc3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506669006024:android:09328ff113b5ddba",
+        "android_client_info": {
+          "package_name": "com.sam.test.climacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506669006024-t15ue47dvmm8fua0dqngaf01n47k71tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sam.test.climacon",
+            "certificate_hash": "befc99b0820b1babd310bce57e49051be95b92e0"
+          }
+        },
+        {
+          "client_id": "506669006024-iqv1r8hsa60rsfj7osp3j9loe7qftmk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8FHHvvl3qswwr7lr-ph08x06yGrzwcM"
+        },
+        {
+          "current_key": "AIzaSyBb7tXfslsTlXFyNe_T0ie-YqBtLSQBc3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506669006024-iqv1r8hsa60rsfj7osp3j9loe7qftmk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

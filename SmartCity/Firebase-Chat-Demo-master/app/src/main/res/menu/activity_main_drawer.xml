@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+            <item
+                android:id="@+id/nav_m_bill"
+                android:icon="@drawable/ic_menu_public"
+                android:title="Pay Maitanence Bill" />
+
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_conversations"
+            android:icon="@drawable/ic_menu_chat"
+            android:title="Conversations" />
+        <item
+            android:id="@+id/nav_users"
+            android:icon="@drawable/ic_menu_people"
+            android:title="Users" />
+        <item
+            android:id="@+id/nav_global"
+            android:icon="@drawable/ic_menu_public"
+            android:title="Global Room" />
+        <item
+            android:id="@+id/nav_girl_guide"
+            android:icon="@drawable/ic_menu_public"
+            android:title="Girl Guide" />
+        <item
+            android:id="@+id/nav_climacon"
+            android:icon="@drawable/ic_menu_public"
+            android:title="ClimaCon" />
+
+        <item
+            android:id="@+id/nav_t1"
+            android:icon="@drawable/ic_menu_public"
+            android:title="ClimaCon" />
+
+        <item
+            android:id="@+id/nav_t2"
+            android:icon="@drawable/ic_menu_public"
+            android:title="ClimaCon" />
+
+        <item
+            android:id="@+id/nav_t3"
+            android:icon="@drawable/ic_menu_public"
+            android:title="ClimaCon" />
+
+
+
+    </group>
+
+</menu>
